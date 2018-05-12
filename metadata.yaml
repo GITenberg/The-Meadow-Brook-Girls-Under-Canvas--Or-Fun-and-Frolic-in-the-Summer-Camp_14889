@@ -1,0 +1,27 @@
+_repo: The-Meadow-Brook-Girls-Under-Canvas--Or-Fun-and-Frolic-in-the-Summer-Camp_14889
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14889-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aldridge, Janet
+    gutenberg_agent_id: '5139'
+    url: http://www.gutenberg.org/2009/agents/5139
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Hazing -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+title: The Meadow-Brook Girls Under Canvas; Or, Fun and Frolic in the Summer Camp
+url: http://www.gutenberg.org/ebooks/14889
